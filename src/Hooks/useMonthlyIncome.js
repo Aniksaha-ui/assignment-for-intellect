@@ -1,15 +1,14 @@
 import React, { useEffect, useState } from "react";
 
-const useSkills = () => {
+const useMonthlyIncome = () => {
   const [data, setData] = useState([]);
-
   useEffect(() => {
-    fetch("skills.json")
+    fetch("monthlyincome.json")
       .then((res) => res.json())
-      .then((skills) => setData(skills));
+      .then((data) => setData(data));
   }, []);
 
   return [data, setData];
 };
 
-export default useSkills;
+export default useMonthlyIncome;

@@ -1,0 +1,13 @@
+[
+  { "name": "JAN", "business": 5500, "job": 1500 },
+  { "name": "FEB", "business": 3000, "job": 3000 },
+  { "name": "Mar", "business": 7500, "job": 1500 },
+  { "name": "Apr", "business": 9000, "job": 5500 },
+  { "name": "Jun", "business": 10000, "job": 5000 },
+  { "name": "July", "business": 10000, "job": 5000 },
+  { "name": "Aug", "business": 10000, "job": 5000 },
+  { "name": "Sep", "business": 10000, "job": 5000 },
+  { "name": "Oct", "business": 10000, "job": 5000 },
+  { "name": "Nov", "business": 10000, "job": 5000 },
+  { "name": "Dec", "business": 10000, "job": 5000 }
+]
