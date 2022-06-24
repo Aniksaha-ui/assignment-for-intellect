@@ -19,3 +19,7 @@ code {
 .create-user {
   background-image: url("../src/images/bg.jpg");
 }
+
+.bg-custom {
+  background-color: rgb(232, 170, 170);
+}
